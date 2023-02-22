@@ -30,4 +30,8 @@ class StudentsController {
   }
 }
 
+
+
 module.exports = StudentsController;
+
+// this is the major student controller

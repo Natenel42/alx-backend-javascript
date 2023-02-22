@@ -5,3 +5,5 @@ class AppController {
 }
 
 module.exports = AppController;
+
+// the app controler
